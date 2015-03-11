@@ -1,4 +1,10 @@
-public static void main()
-{
-   system.out.println("Hello World");
+
+// Added class comments
+public class firstFile {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+
 }
+
