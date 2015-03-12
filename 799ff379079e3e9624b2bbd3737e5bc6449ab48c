@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1371a2_f98fbb73",
+        "filename": "source/secondfile.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004142
+      },
+      "writtenOn": "2015-03-12T13:43:13Z",
+      "side": 1,
+      "message": "improve this",
+      "revId": "799ff379079e3e9624b2bbd3737e5bc6449ab48c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
